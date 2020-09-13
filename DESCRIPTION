@@ -12,6 +12,7 @@ LazyData: true
 RoxygenNote: 7.1.1
 Import: cppRouting
 Suggests: 
-    cppRouting
+    cppRouting,
+    testthat
 Depends: 
     R (>= 2.10)
